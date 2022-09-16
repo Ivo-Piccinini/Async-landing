@@ -6,7 +6,7 @@ const options = {
 	method: 'GET',
 	headers: {
 		'X-RapidAPI-Key': '0e8d331127msh3118e5c428e96b5p186decjsn3b4b309b3721',
-		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
+		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com' 
 	}
 };
 
